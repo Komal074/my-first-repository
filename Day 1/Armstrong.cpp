@@ -19,5 +19,5 @@ int main()
     else
     {
         cout<<"not an Armstrong"; 
-    }return 0;
+    }
 }
