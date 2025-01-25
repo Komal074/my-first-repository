@@ -1,8 +1,3 @@
-// wap to genarate the fibonacci series upto given number...
-//input: num=8
-//output: 0 1 1 2 3 5 8 13 21
-
-
 #include<iostream>
 using namespace std;
 int main()
@@ -11,7 +6,7 @@ int main()
     cout<<"Enter a number=";
     cin>>num;
     cout<<a<<" "<<b;
-    for(i=1;i<=num-1;i++)
+    for(i=1;i<=num;i++)
     {
         c=a+b;
         cout<<c<<" ";
