@@ -17,5 +17,5 @@ int main()
     {
         cout<<"Odd";
     }
-    return 0;
+
 }
